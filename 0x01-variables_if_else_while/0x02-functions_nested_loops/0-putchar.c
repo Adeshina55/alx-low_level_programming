@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints _puthar and a new line
+ * main - prints puthar
  * Return: Always 0
  */
 int main(void)
